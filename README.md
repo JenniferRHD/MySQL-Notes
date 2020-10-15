@@ -25,5 +25,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jennifer Ruohua Ding - [@Ruohua Ding](https://www.linkedin.com/in/ruohua-ding/) - rhding97Atgmail.com
 
-Project Link: []()
+Project Link: [https://github.com/JenniferRHD/SQL-Notes.git](https://github.com/JenniferRHD/SQL-Notes.git)
 
