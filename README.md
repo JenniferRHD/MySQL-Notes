@@ -4,7 +4,7 @@ Jennifer's SQL "cheat sheet"!
 ## Table of Contents
 * [Getting Started](#getting-started)
   * [Built With](#built-with)
-* [Levels & DBMS](#Levels-&-DBMS)
+* [Levels & DBMS](#levels-&-dbms)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
