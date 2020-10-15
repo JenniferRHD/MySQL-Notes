@@ -4,7 +4,7 @@ Jennifer's SQL "cheat sheet"!
 ## Table of Contents
 * [Getting Started](#getting-started)
   * [Built With](#built-with)
-* [Levels & DBMS](#levels-&-dbms)
+* [Levels and DBMS](#levels-and-dbms)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -13,7 +13,7 @@ Jennifer's SQL "cheat sheet"!
 ### Built With
   * [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
-## Levels & DBMS
+## Levels and DBMS
 
 
 
