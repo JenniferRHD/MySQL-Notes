@@ -1,5 +1,5 @@
-# SQL-Notes
-Jennifer's SQL "cheat sheet"!
+# MySQL-Notes
+Jennifer's MySQL "cheat sheet"!
 
 ## Table of Contents
 * [Getting Started](#getting-started)
