@@ -14,8 +14,14 @@ Jennifer's MySQL "cheat sheet"!
   * [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Levels and DBMS
-
-
+* Data independence
+  * Change the schema at one level of the database system without changing higher level schemas
+* Logical data independence
+  * Change the conceptual schema without changing user views
+  * Allows adding fields, unique to some users
+* Physical data independence
+  * Change the internal schema without having to change the conceptual schema or user views
+  * For example: use different software on the same database
 
 ## License
 
